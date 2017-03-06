@@ -1,0 +1,4549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="color" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2.1(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="530(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="908(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="451(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="15(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="23(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.8(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="141(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="318(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="312(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="223(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="64(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="142(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="22(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="450(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="298(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="212(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="10(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="5.5 mm (I)(crochet)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="61(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="302(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="285(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="1.9(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="247(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="228(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="104(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="306(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="6.0 mm (J)(crochet)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="0(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="29(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="US 4  - 3.5 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="286(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="532(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="2(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="6(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="63(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="2.2(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="US 2½ - 3.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="189(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="11(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="US 1  - 2.25 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="193(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="2(craft)">
+      <data key="d0">craft</data>
+    </node>
+    <node id="1(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="8(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="520(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="391(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="7(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="301(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="3.7(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="13(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="304(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="242(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="383(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="13(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="265(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="350(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="3.0(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="68(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="912(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="US 11  - 8.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="12(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="297(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="1000(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="248(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="3.2(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="136(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.9(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="124(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="6.0(price)">
+      <data key="d0">price</data>
+    </node>
+    <node id="525(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="190(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="1394(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="413(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="7(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="4.5 mm(crochet)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="4.0(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="380(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="260(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="3.8(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="26(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="1(craft)">
+      <data key="d0">craft</data>
+    </node>
+    <node id="300(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="3.9(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="301(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="257(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="350(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="3.6(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="3.4(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="11(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="238(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.4(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="262(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="5.4(price)">
+      <data key="d0">price</data>
+    </node>
+    <node id="302(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="1.0(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="410(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="US 0 - 2.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="86(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="309(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.8(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="875(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="4.3(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="148(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="152(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="146(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.0(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="4.0 mm (G)(crochet)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="526(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="69(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="206(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="470(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="885(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="3(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="204(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="3.9(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="4.7(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="US 6  - 4.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="62(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="394(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="103(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="70(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="339(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="4.2(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="207(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="12(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="1175(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="244(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="450(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="211(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="400(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="411(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="217(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="308(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="200(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="None Listed(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="449(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="5.5(price)">
+      <data key="d0">price</data>
+    </node>
+    <node id="197(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="266(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="1.5(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="337(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="300(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="3.1(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="119(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="888(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="56(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.5(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="10(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="196(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="357(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="2.7(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="205(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="5.0(price)">
+      <data key="d0">price</data>
+    </node>
+    <node id="459(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="656(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="390(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="340(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="353(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="2.7(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="2.4(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="1.6(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="5.1(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="338(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="134(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.1(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="354(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="2.9(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="0(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="US 17  - 12.75 mm(knitting)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="222(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="3.0 mm(crochet)(needle)">
+      <data key="d0">needle</data>
+    </node>
+    <node id="319(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="5.0(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="127(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="314(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="750(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="372(category)">
+      <data key="d0">category</data>
+    </node>
+    <node id="1.4(difficulty)">
+      <data key="d0">difficulty</data>
+    </node>
+    <node id="660(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="5(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="2(yarn)">
+      <data key="d0">yarn</data>
+    </node>
+    <node id="273(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="0(price)">
+      <data key="d0">price</data>
+    </node>
+    <node id="306(yardage)">
+      <data key="d0">yardage</data>
+    </node>
+    <node id="17(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="4.6(rating)">
+      <data key="d0">rating</data>
+    </node>
+    <node id="9(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <node id="267(attribute)">
+      <data key="d0">attribute</data>
+    </node>
+    <edge source="2.1(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="2.1(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="400(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="US 1  - 2.25 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="301(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="US 0 - 2.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.1(difficulty)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="530(category)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="530(category)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="530(category)" target="15(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="908(category)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="908(category)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="451(category)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="451(category)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="68(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="1.5(difficulty)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="4.5(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="337(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="189(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="217(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="338(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="3.1(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="247(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="526(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="0(price)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="15(yarn)" target="339(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="520(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="141(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="4.7(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="None Listed(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="15(yarn)" target="301(category)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="15(yarn)" target="450(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="15(yarn)" target="2(craft)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="23(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="4.8(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="10(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="301(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(difficulty)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="141(attribute)" target="450(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="2.2(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="318(attribute)" target="301(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="318(attribute)" target="2(craft)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="312(attribute)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="312(attribute)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="223(attribute)" target="13(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="64(attribute)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="64(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="64(attribute)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="142(yardage)" target="1.5(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="142(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="142(yardage)" target="US 11  - 8.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="449(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="470(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="248(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="12(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="142(yardage)" target="301(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="142(yardage)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="22(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="450(category)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="450(category)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="450(category)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="298(attribute)" target="6.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="298(attribute)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="298(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="298(attribute)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="212(attribute)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="212(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="212(attribute)" target="2(craft)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="212(attribute)" target="1394(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="212(attribute)" target="1(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="212(attribute)" target="3.4(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="212(attribute)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="212(attribute)" target="301(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="10(yarn)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="4.5(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="302(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="29(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="2.9(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="222(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="410(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="10(yarn)" target="350(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="380(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="306(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="337(category)">
+      <data key="d1">11.040000000000001</data>
+    </edge>
+    <edge source="10(yarn)" target="3.9(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="750(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="297(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="2(craft)">
+      <data key="d1">11.040000000000001</data>
+    </edge>
+    <edge source="10(yarn)" target="5.0(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="2.2(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="US 2½ - 3.0 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="69(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="10(yarn)" target="353(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="10(yarn)" target="2.4(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="3.4(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="885(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="10(yarn)" target="62(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="338(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="4.4(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="10(yarn)" target="262(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="300(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="354(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="10(yarn)" target="301(category)">
+      <data key="d1">11.040000000000001</data>
+    </edge>
+    <edge source="10(yarn)" target="228(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="10(yarn)" target="4.2(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="5.5 mm (I)(crochet)(needle)" target="3.9(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.5 mm (I)(crochet)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.5 mm (I)(crochet)(needle)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.5 mm (I)(crochet)(needle)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.5 mm (I)(crochet)(needle)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="61(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="302(category)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="304(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="1394(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="319(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="302(category)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="302(category)" target="4.3(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="302(category)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="3.2(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="257(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="1000(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="3.4(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="1(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="302(category)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="11(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="302(category)" target="6.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(category)" target="302(category)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="302(category)" target="2(craft)">
+      <data key="d1">12.832</data>
+    </edge>
+    <edge source="302(category)" target="301(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="302(category)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="302(category)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="285(attribute)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="285(attribute)" target="3.0(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="285(attribute)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="285(attribute)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="285(attribute)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="285(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="285(attribute)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="285(attribute)" target="2(craft)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="1(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="4.5 mm(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="11(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1.9(difficulty)" target="1.9(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="247(attribute)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="104(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="306(attribute)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="1(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="4.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="1.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0 mm (J)(crochet)(needle)" target="6.0 mm (J)(crochet)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="0(rating)" target="6(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="0(rating)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="525(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="0(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="0(rating)" target="301(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="372(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(rating)" target="0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="4.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="3.2(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="None Listed(yardage)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="3.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="3.7(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="11(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="2(craft)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="7(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="1.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 4  - 3.5 mm(knitting)(needle)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="286(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="286(attribute)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="286(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="286(attribute)" target="2.2(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="286(attribute)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="286(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="286(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="286(attribute)" target="2(craft)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="532(category)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="532(category)" target="3.7(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="532(category)" target="1(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2(attribute)" target="1(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="6(yarn)" target="US 17  - 12.75 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="525(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6(yarn)" target="338(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="888(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="340(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="0(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="3.4(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="None Listed(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="309(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="6.0(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="4.6(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6(yarn)" target="372(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="6(yarn)" target="301(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6(yarn)" target="0(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="63(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="63(attribute)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="300(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="4(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="2(craft)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="205(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="2.2(difficulty)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="300(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="206(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="0(price)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="8(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="3(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="7(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="266(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.2(difficulty)" target="301(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="US 2½ - 3.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="4.4(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="875(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="4.8(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="13(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="301(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2½ - 3.0 mm(knitting)(needle)" target="2(craft)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="189(attribute)" target="4.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="189(attribute)" target="450(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="11(yarn)" target="319(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="337(category)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="11(yarn)" target="3.6(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="119(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="3.0 mm(crochet)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="888(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="13(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="None Listed(yardage)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="11(yarn)" target="3.0(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="4.2(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="391(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="127(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="12(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="372(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="4.6(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="1.6(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="1000(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="390(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="1(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="11(yarn)" target="4.0(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="190(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="193(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="11(yarn)" target="340(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="0(price)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="11(yarn)" target="4.5 mm(crochet)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="304(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="103(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="338(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="17(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="4.3(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="11(yarn)" target="301(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="11(yarn)" target="5.4(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="3.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="US 1  - 2.25 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="400(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="2(craft)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="4.4(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="4.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1  - 2.25 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="193(attribute)" target="2(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="193(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="193(attribute)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="193(attribute)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="193(attribute)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="193(attribute)" target="1000(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="193(attribute)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="US 0 - 2.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="4.8(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="4.3(rating)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="2(craft)" target="146(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="4.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="4.0 mm (G)(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="1000(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="206(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="3.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="3(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="4.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="525(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="400(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="190(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="0(price)">
+      <data key="d1">100.31999999999995</data>
+    </edge>
+    <edge source="2(craft)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="207(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="450(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="257(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="1(yarn)">
+      <data key="d1">6.416</data>
+    </edge>
+    <edge source="2(craft)" target="3.0(difficulty)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="8(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="7(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="266(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="US 11  - 8.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="301(category)">
+      <data key="d1">60.15999999999997</data>
+    </edge>
+    <edge source="2(craft)" target="3.7(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="13(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2(craft)" target="1.5(difficulty)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="304(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="337(category)">
+      <data key="d1">25.247999999999998</data>
+    </edge>
+    <edge source="2(craft)" target="300(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="3.1(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="4.5(rating)">
+      <data key="d1">30.911999999999992</data>
+    </edge>
+    <edge source="2(craft)" target="383(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="265(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="None Listed(yardage)">
+      <data key="d1">44.15999999999998</data>
+    </edge>
+    <edge source="2(craft)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="912(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="12(yarn)">
+      <data key="d1">6.208</data>
+    </edge>
+    <edge source="2(craft)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="1.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="2(craft)">
+      <data key="d1">63.19999999999997</data>
+    </edge>
+    <edge source="2(craft)" target="5.0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="3.2(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="4(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="340(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="353(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="7(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="2.4(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="6.0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2(craft)" target="4.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="354(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">21.664</data>
+    </edge>
+    <edge source="2(craft)" target="875(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="1394(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="319(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="4.4(rating)">
+      <data key="d1">22.08</data>
+    </edge>
+    <edge source="2(craft)" target="380(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="127(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="3.8(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="4.6(rating)">
+      <data key="d1">17.248</data>
+    </edge>
+    <edge source="2(craft)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="300(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="3.9(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="5(yarn)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="2(craft)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2(craft)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">17.248</data>
+    </edge>
+    <edge source="2(craft)" target="410(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="3.4(difficulty)">
+      <data key="d1">17.248</data>
+    </edge>
+    <edge source="2(craft)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="1.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2(craft)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2(craft)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="2(craft)" target="267(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1(yarn)" target="4.5(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="304(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="4.0 mm (G)(crochet)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="337(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="1394(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="319(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="86(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="207(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="146(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="2.7(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="238(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="413(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="257(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="3.9(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="4.0(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="526(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="3.7(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="411(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="1(craft)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="0(price)">
+      <data key="d1">8.624</data>
+    </edge>
+    <edge source="1(yarn)" target="2.7(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="2.4(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="3.4(difficulty)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="None Listed(yardage)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="1(yarn)" target="449(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(yarn)" target="11(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="124(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="134(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1(yarn)" target="301(category)">
+      <data key="d1">8.624</data>
+    </edge>
+    <edge source="1(yarn)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="8(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="8(attribute)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="8(attribute)" target="301(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="520(category)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="520(category)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="520(category)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="520(category)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="520(category)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="7(attribute)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="7(attribute)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(attribute)" target="301(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="1.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="410(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="4.8(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="4.3(rating)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="301(category)" target="4.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="3.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="450(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="3(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="525(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="4(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="400(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="4.2(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="4.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="257(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="3.0(difficulty)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="300(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="301(category)">
+      <data key="d1">14.624</data>
+    </edge>
+    <edge source="301(category)" target="3.7(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="13(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="301(category)" target="1.5(difficulty)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="304(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="4.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="337(category)">
+      <data key="d1">12.416</data>
+    </edge>
+    <edge source="301(category)" target="300(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="3.1(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="4.5(rating)">
+      <data key="d1">30.911999999999992</data>
+    </edge>
+    <edge source="301(category)" target="383(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="None Listed(yardage)">
+      <data key="d1">61.82399999999997</data>
+    </edge>
+    <edge source="301(category)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="12(yarn)">
+      <data key="d1">6.208</data>
+    </edge>
+    <edge source="301(category)" target="7(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="5.0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="340(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="2.4(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="6.0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="1000(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">12.832</data>
+    </edge>
+    <edge source="301(category)" target="875(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="1394(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="319(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="4.0(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="380(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="1(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(category)" target="3.9(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="5(yarn)">
+      <data key="d1">19.872</data>
+    </edge>
+    <edge source="301(category)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="301(category)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="3.4(difficulty)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="301(category)" target="3.2(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="301(category)" target="0(price)">
+      <data key="d1">117.98399999999994</data>
+    </edge>
+    <edge source="301(category)" target="4.4(rating)">
+      <data key="d1">22.08</data>
+    </edge>
+    <edge source="301(category)" target="4.6(rating)">
+      <data key="d1">17.248</data>
+    </edge>
+    <edge source="301(category)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="301(category)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.7(rating)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.7(rating)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.7(rating)" target="526(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.7(rating)" target="4.0 mm (G)(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.7(rating)" target="4.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.7(rating)" target="3.7(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="5.0(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="244(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="337(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="301(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="338(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="350(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="5.1(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="875(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="13(yarn)" target="4.8(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="304(category)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="304(category)" target="1394(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="304(category)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="304(category)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="304(category)" target="319(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="304(category)" target="3.4(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="304(category)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="304(category)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="304(category)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="304(category)" target="1000(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="304(category)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="304(category)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="242(attribute)" target="7(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="383(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="383(yardage)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="383(yardage)" target="390(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="383(yardage)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="383(yardage)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="383(yardage)" target="3.8(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="383(yardage)" target="383(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="383(yardage)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="13(attribute)" target="1000(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="265(attribute)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="265(attribute)" target="3.0(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="265(attribute)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="265(attribute)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="265(attribute)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(category)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="4.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="875(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="5(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="350(category)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="4.8(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="350(category)" target="7(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="337(category)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="3.0 mm(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="3.0(difficulty)">
+      <data key="d1">6.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="12(yarn)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="1(craft)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="4.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="340(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="204(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.0(difficulty)" target="267(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="912(category)" target="3.2(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="912(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="912(category)" target="6.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="912(category)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="912(category)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 11  - 8.0 mm(knitting)(needle)" target="1.5(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 11  - 8.0 mm(knitting)(needle)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 11  - 8.0 mm(knitting)(needle)" target="12(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 11  - 8.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="12(yarn)" target="1.5(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="12(yarn)" target="300(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="56(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="206(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="10(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="205(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="248(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="136(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="340(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="353(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="196(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="470(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="4.9(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="885(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="3(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="338(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="204(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="354(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="4.5(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="4(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="70(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="660(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="26(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="350(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="200(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="0(price)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="12(yarn)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="449(category)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="12(yarn)" target="5.5(price)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="4.6(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="266(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="9(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="12(yarn)" target="267(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="297(attribute)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="297(attribute)" target="4.4(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="103(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="190(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="119(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="319(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="1000(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1000(yardage)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="127(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="17(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1000(yardage)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="3.2(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="7(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="308(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="6.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.2(difficulty)" target="4.3(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="136(attribute)" target="4.9(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="136(attribute)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="136(attribute)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="340(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="4.9(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="204(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.9(rating)" target="267(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="124(attribute)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="124(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="124(attribute)" target="1394(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="6.0(price)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="US 17  - 12.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="308(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="6.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="3.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="6.0(price)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="525(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="525(yardage)" target="525(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="525(yardage)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="525(yardage)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="525(yardage)" target="888(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="525(yardage)" target="372(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="525(yardage)" target="0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="190(attribute)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="190(attribute)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="190(attribute)" target="3.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="190(attribute)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="300(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="4(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="410(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="US 3  - 3.25 mm(knitting)(needle)">
+      <data key="d1">8.624</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="4.4(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="380(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="266(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="3.9(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">12.832</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="3.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="3(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="300(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 3  - 3.25 mm(knitting)(needle)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="146(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="1394(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="257(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="319(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="3.4(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="86(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="134(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="11(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="207(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1394(yardage)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="7(yarn)" target="211(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="4.5(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="7(yarn)" target="656(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="7(yarn)" target="None Listed(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="3.9(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="4.3(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="7(yarn)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5 mm(crochet)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5 mm(crochet)(needle)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5 mm(crochet)(needle)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(rating)" target="1(craft)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.0(rating)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.0(rating)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(rating)" target="3.0 mm(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(rating)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.0(rating)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.0(rating)" target="4.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(rating)" target="1.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(rating)" target="337(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="380(yardage)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="3.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="885(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="380(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="380(yardage)" target="4.4(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="262(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="380(yardage)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="260(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.8(difficulty)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.8(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.8(difficulty)" target="3.8(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.8(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.8(difficulty)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="26(attribute)" target="350(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1(craft)" target="1(craft)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="1(craft)" target="3.9(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1(craft)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1(craft)" target="1.0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1(craft)" target="0(price)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="1(craft)" target="None Listed(yardage)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="1(craft)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1(craft)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="300(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="300(yardage)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="300(yardage)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="300(yardage)" target="300(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="300(yardage)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="300(yardage)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="3.9(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="337(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.9(rating)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="410(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.9(rating)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(rating)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(attribute)" target="4.8(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="301(attribute)" target="875(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="257(attribute)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="257(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="257(attribute)" target="3.4(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="257(attribute)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="300(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="4(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="70(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="205(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="350(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="350(yardage)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="206(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="200(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="885(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="3(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="266(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="350(yardage)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="3.6(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="119(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="319(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="127(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="5.4(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.6(difficulty)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="US 17  - 12.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="319(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="4.4(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="207(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="US 6  - 4.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="146(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="134(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="0(price)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="3.4(difficulty)">
+      <data key="d1">8.624</data>
+    </edge>
+    <edge source="3.4(difficulty)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="302(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="337(category)">
+      <data key="d1">22.08</data>
+    </edge>
+    <edge source="4.4(rating)" target="3.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.4(rating)" target="US 6  - 4.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="5(yarn)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="4.4(rating)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="353(category)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="4.4(rating)" target="0(price)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="4.4(rating)" target="885(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.4(rating)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="4.4(rating)">
+      <data key="d1">11.040000000000001</data>
+    </edge>
+    <edge source="4.4(rating)" target="1.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.4(rating)" target="354(category)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="4.4(rating)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="319(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="207(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 8  - 5.0 mm(knitting)(needle)" target="US 8  - 5.0 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="5.4(price)" target="319(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.4(price)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.4(price)" target="103(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.4(price)" target="119(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.4(price)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.4(price)" target="127(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.4(price)" target="5.4(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="5.4(price)" target="4.3(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(attribute)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="302(attribute)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 15  - 10.0 mm(knitting)(needle)" target="1.5(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 15  - 10.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="US 15  - 10.0 mm(knitting)(needle)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 15  - 10.0 mm(knitting)(needle)" target="0(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 15  - 10.0 mm(knitting)(needle)" target="US 15  - 10.0 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1.0(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.0(difficulty)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.0(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1.0(difficulty)" target="1.0(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1.0(difficulty)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="410(yardage)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="410(yardage)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="410(yardage)" target="410(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="410(yardage)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="410(yardage)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="410(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="410(yardage)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 0 - 2.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 0 - 2.0 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 0 - 2.0 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 0 - 2.0 mm(knitting)(needle)" target="400(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="86(attribute)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.8(rating)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(rating)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(rating)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(rating)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(rating)" target="875(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.8(rating)" target="4.8(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="875(yardage)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="875(yardage)" target="244(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="875(yardage)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="875(yardage)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="875(yardage)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="875(yardage)" target="875(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.3(rating)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="119(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="319(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="337(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="4.3(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.3(rating)" target="None Listed(yardage)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.3(rating)" target="127(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.3(rating)" target="103(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="152(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.3(rating)" target="308(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="526(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.3(rating)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.3(rating)" target="17(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="148(attribute)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="148(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="152(attribute)" target="1175(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="152(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="146(attribute)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="146(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.0(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(difficulty)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0(difficulty)" target="4.0(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.0(difficulty)" target="4.0 mm (G)(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0 mm (G)(crochet)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0 mm (G)(crochet)(needle)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.0 mm (G)(crochet)(needle)" target="4.0 mm (G)(crochet)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="526(category)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="526(category)" target="None Listed(yardage)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="526(category)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="526(category)" target="3.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="526(category)" target="0(price)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="69(attribute)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="206(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="206(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="470(category)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="885(category)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="400(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="885(category)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="5(yarn)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="885(category)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="885(category)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="0(price)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="885(category)" target="885(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="885(category)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="885(category)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="885(category)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3(attribute)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3(attribute)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="204(attribute)" target="5.5(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="204(attribute)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.9(difficulty)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(difficulty)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.9(difficulty)" target="3.9(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.9(difficulty)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.7(rating)" target="1.5(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.7(rating)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.7(rating)" target="339(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.7(rating)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.7(rating)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.7(rating)" target="4.7(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="4.7(rating)" target="450(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 6  - 4.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 6  - 4.0 mm(knitting)(needle)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 6  - 4.0 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="394(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4(attribute)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4(attribute)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4(attribute)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="400(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="US 2  - 2.75 mm(knitting)(needle)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="US 2  - 2.75 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="70(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="339(category)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="339(category)" target="450(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.2(rating)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.2(rating)" target="337(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.2(rating)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.2(rating)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.2(rating)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.2(rating)" target="4.2(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.2(rating)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="207(attribute)" target="2.7(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="207(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1175(yardage)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1175(yardage)" target="1175(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1175(yardage)" target="308(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="450(yardage)" target="1.5(difficulty)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="450(yardage)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="450(yardage)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="450(yardage)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="450(yardage)" target="450(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="400(yardage)" target="400(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="400(yardage)" target="5(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="400(yardage)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="400(yardage)" target="353(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="400(yardage)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="400(yardage)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="400(yardage)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="400(yardage)" target="4.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="400(yardage)" target="354(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="400(yardage)" target="337(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="411(category)" target="None Listed(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="308(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="200(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="200(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="337(category)">
+      <data key="d1">44.15999999999998</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="3.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="449(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="357(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="1.6(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="2.7(difficulty)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="US 17  - 12.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="390(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="0(price)">
+      <data key="d1">57.40799999999997</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="4.5(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="338(category)">
+      <data key="d1">26.495999999999995</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="3.0 mm(crochet)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="314(attribute)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="372(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="4.6(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="5(yarn)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="None Listed(yardage)">
+      <data key="d1">30.911999999999992</data>
+    </edge>
+    <edge source="None Listed(yardage)" target="1.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="449(category)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="449(category)" target="4.5(rating)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="5.5(price)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.5(price)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.5(price)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.5(price)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.5(price)" target="340(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.5(price)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.5(price)" target="5.5(price)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="5.5(price)" target="267(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="197(attribute)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="266(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="266(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1.5(difficulty)" target="1.5(difficulty)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="1.5(difficulty)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.5(difficulty)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1.5(difficulty)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="1.5(difficulty)" target="0(price)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="337(category)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="337(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="3.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="4.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="5.0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="337(category)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="0(price)">
+      <data key="d1">60.99199999999997</data>
+    </edge>
+    <edge source="337(category)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="4.5(rating)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="337(category)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="337(category)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="4.6(rating)">
+      <data key="d1">17.248</data>
+    </edge>
+    <edge source="337(category)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="5(yarn)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="337(category)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="337(category)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="300(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="300(attribute)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="300(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="3.1(difficulty)" target="4.5(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.1(difficulty)" target="459(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.1(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="3.1(difficulty)" target="3.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.1(difficulty)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="3.1(difficulty)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 10  - 6.0 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 10  - 6.0 mm(knitting)(needle)" target="US 10  - 6.0 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 10  - 6.0 mm(knitting)(needle)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 10  - 6.0 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.5(rating)" target="4.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="4.5(rating)">
+      <data key="d1">15.456000000000001</data>
+    </edge>
+    <edge source="4.5(rating)" target="5(yarn)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="353(category)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.5(rating)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.5(rating)" target="0(price)">
+      <data key="d1">30.911999999999992</data>
+    </edge>
+    <edge source="4.5(rating)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="4.5(rating)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="656(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="319(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="US 5  - 3.75 mm(knitting)(needle)">
+      <data key="d1">8.624</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="10(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">12.832</data>
+    </edge>
+    <edge source="US 5  - 3.75 mm(knitting)(needle)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="10(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="10(attribute)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="10(attribute)" target="353(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="10(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="10(attribute)" target="10(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="10(attribute)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="357(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2.7(difficulty)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="2.7(difficulty)" target="2(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2.7(difficulty)" target="2.7(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="205(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="205(attribute)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.0(price)" target="5.0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.0(price)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.0(price)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.0(price)" target="5.1(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.0(price)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="459(yardage)" target="459(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="459(yardage)" target="353(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="459(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="459(yardage)" target="354(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="459(yardage)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="US 9  - 5.5 mm(knitting)(needle)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="338(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="340(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 9  - 5.5 mm(knitting)(needle)" target="267(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="656(yardage)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="656(yardage)" target="656(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="656(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="390(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="340(category)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="340(category)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="340(category)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="353(category)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="353(category)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="353(category)" target="4.6(rating)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="353(category)" target="5(yarn)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="353(category)" target="354(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="353(category)" target="353(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="353(category)" target="0(price)">
+      <data key="d1">21.664</data>
+    </edge>
+    <edge source="353(category)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="353(category)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1½ - 2.5 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="US 1½ - 2.5 mm(knitting)(needle)" target="US 1½ - 2.5 mm(knitting)(needle)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1½ - 2.5 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">13.248000000000001</data>
+    </edge>
+    <edge source="US 1½ - 2.5 mm(knitting)(needle)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 1½ - 2.5 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.7(rating)" target="319(category)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.7(rating)" target="2.7(rating)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="2.7(rating)" target="134(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.7(rating)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="2.4(difficulty)" target="2.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.4(difficulty)" target="0(price)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="1.6(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.6(difficulty)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.6(difficulty)" target="1.6(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="5.1(difficulty)" target="5.1(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="5.1(difficulty)" target="338(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="338(category)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="338(category)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="338(category)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="338(category)" target="5(yarn)">
+      <data key="d1">6.6240000000000006</data>
+    </edge>
+    <edge source="338(category)" target="0(price)">
+      <data key="d1">12.832</data>
+    </edge>
+    <edge source="134(attribute)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="4.1(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="4.1(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.1(difficulty)" target="4.1(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="354(category)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="354(category)" target="5.0(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="354(category)" target="4.6(rating)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="354(category)" target="5(yarn)">
+      <data key="d1">8.832</data>
+    </edge>
+    <edge source="354(category)" target="354(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="354(category)" target="0(price)">
+      <data key="d1">8.416</data>
+    </edge>
+    <edge source="354(category)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="354(category)" target="2.9(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.9(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.9(difficulty)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="2.9(difficulty)" target="2.9(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="0(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(difficulty)" target="0(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 7  - 4.5 mm(knitting)(needle)" target="US 7  - 4.5 mm(knitting)(needle)">
+      <data key="d1">4.208</data>
+    </edge>
+    <edge source="US 7  - 4.5 mm(knitting)(needle)" target="319(category)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 7  - 4.5 mm(knitting)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 7  - 4.5 mm(knitting)(needle)" target="660(yardage)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="US 7  - 4.5 mm(knitting)(needle)" target="1.4(difficulty)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="US 7  - 4.5 mm(knitting)(needle)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="US 17  - 12.75 mm(knitting)(needle)" target="4.6(rating)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="222(attribute)" target="750(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="3.0 mm(crochet)(needle)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="319(category)" target="319(category)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="319(category)" target="0(price)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5.0(rating)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="5.0(rating)" target="5.0(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="5.0(rating)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="314(attribute)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="750(yardage)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="750(yardage)" target="750(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1.4(difficulty)" target="0(price)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="1.4(difficulty)" target="5(yarn)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="1.4(difficulty)" target="1.4(difficulty)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="660(yardage)" target="660(yardage)">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="660(yardage)" target="267(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="5(yarn)" target="0(price)">
+      <data key="d1">17.664</data>
+    </edge>
+    <edge source="5(yarn)" target="273(attribute)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="5(yarn)" target="4.6(rating)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="2(yarn)" target="0(price)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="0(price)" target="0(price)">
+      <data key="d1">58.99199999999997</data>
+    </edge>
+    <edge source="0(price)" target="4.6(rating)">
+      <data key="d1">12.832</data>
+    </edge>
+    <edge source="0(price)" target="306(yardage)">
+      <data key="d1">4.416</data>
+    </edge>
+    <edge source="0(price)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="306(yardage)" target="306(yardage)">
+      <data key="d1">2.208</data>
+    </edge>
+    <edge source="4.6(rating)" target="4.6(rating)">
+      <data key="d1">8.624</data>
+    </edge>
+    <edge source="4.6(rating)" target="9(attribute)">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="9(attribute)" target="9(attribute)">
+      <data key="d1">2.0</data>
+    </edge>
+  </graph>
+</graphml>
